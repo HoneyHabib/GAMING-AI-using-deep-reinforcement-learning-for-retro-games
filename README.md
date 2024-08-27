@@ -5,6 +5,7 @@ Welcome to the **Gaming AI with Deep Reinforcement Learning** repository! This p
 ## Table of Contents
 
 - [Project Overview](#project-overview)
+- [Model performance](#Model-Performance)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
@@ -18,6 +19,13 @@ Welcome to the **Gaming AI with Deep Reinforcement Learning** repository! This p
 ## Project Overview
 
 This repository contains an implementation of a deep reinforcement learning agent designed to play the classic retro game Street Fighter. Using techniques such as Deep Q-Learning (DQN), Proximal Policy Optimization (PPO), or other DRL algorithms, the project aims to develop an AI that learns optimal strategies and actions through interaction with the game environment.
+
+## Model Performance
+UNTRAINED VS TRAINED MODEL
+ ![comparison of models](https://github.com/user-attachments/assets/f55faae3-8f07-4632-ab68-596a3492ce19)
+
+ OUTPUT SCREEN RESULT
+![game result](https://github.com/user-attachments/assets/efb22d8c-7844-44b6-8366-886dfc063a80)
 
 ## Features
 
